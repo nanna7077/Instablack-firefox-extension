@@ -13,5 +13,5 @@ Steps to load manually to firefox:
 Contribute to this project:
 
 
-    -> Make any css related changes to the darkinsta.css file. Don't edit the js directly.
-    -> If you are making changes to the js, comment what it does.
+    -> Make any css related changes to the darkinsta.css file. Don't edit the js directly for this.
+    -> If you are making changes to the js, comment what your change does.
