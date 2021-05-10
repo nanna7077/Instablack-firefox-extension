@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "instaDark",
+  "version": "1.0",
+
+  "description": "Dark mode for instagram.",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.instagram.com/*"],
+      "js": ["darkinsta.js"]
+    }
+  ]
+
+}
