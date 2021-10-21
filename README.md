@@ -1,7 +1,7 @@
 # darkInsta-firefox-extension
 A firefox extension that enabled dark mode for instagram web.
 
-Get from Mozilla Addons: https://addons.mozilla.org/en-US/firefox/addon/instadark/
+Get from Mozilla Addons: https://addons.mozilla.org/en-US/firefox/addon/instablack/
 
 Steps to load manually to firefox:
     
